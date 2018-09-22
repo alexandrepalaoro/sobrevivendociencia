@@ -2,7 +2,7 @@
 Any analyses that shows up in the blog will be posted here. (https://marcoarmello.wordpress.com/)
 
 
-Metafile do perfil.csv
+<b>Metafile do arquivo "perfil.csv"</b></br>
 <b>fx.etaria = Faixa etária</b></br>
 idade 18-23 = 1</br>
 idade 24-30 = 2 </br>
